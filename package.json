@@ -1,5 +1,5 @@
 {
-  "name": "probot-reminders",
+  "name": "probot-reminders-with-prs",
   "version": "1.0.0",
   "description": "reminders for GitHub Issues and Pull Requests",
   "author": "Jamie Jones",
